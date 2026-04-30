@@ -23,14 +23,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,php,cs" />
 </p>
-<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python"/>
-<img src="https://img.shields.io/badge/Flask-0D1117?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/CSharp-0D1117?style=for-the-badge&logo=csharp"/>
-</p>
+
 
 ### 🎨 Creative Tools
 <p>
