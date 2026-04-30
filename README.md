@@ -26,10 +26,8 @@
 
 
 ### 🎨 Creative Tools
-<p>
-<img src="https://img.shields.io/badge/Photoshop-0D1117?style=for-the-badge&logo=adobephotoshop"/>
-<img src="https://img.shields.io/badge/Premiere_Pro-0D1117?style=for-the-badge&logo=adobepremierepro"/>
-<img src="https://img.shields.io/badge/After_Effects-0D1117?style=for-the-badge&logo=adobeaftereffects"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ps,pr,ae" />
 </p>
 
 ---
