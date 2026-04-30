@@ -20,7 +20,9 @@
 
 ### 💻 Development
 <p>
-<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,flask,php,cs" />
+</p>
 <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3"/>
 <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript"/>
 <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react"/>
