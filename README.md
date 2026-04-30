@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm abdirahmanabdirisak7
-</h1>
+<h1 align="center">Hi 👋, I'm abdirahmanabdirisak7</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Creative+Designer+%26+Video+Editor" />
@@ -27,7 +26,7 @@
 ### 🤖 AI & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,flask,git,github,windows" />
-  </p>
+</p>
 
 ### 🎨 Creative Suite
 <p align="left">
@@ -39,12 +38,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdirahmanabdirisak7&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdirahmanabdirisak7&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahmanabdirisak7&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
