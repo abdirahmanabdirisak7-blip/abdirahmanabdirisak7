@@ -1,7 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abdirahman (Apoudi)</h1>
+<h1 align="center">Hi 👋, I'm Abdirahman Abdirisak (Apoudi)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Full+Stack+Developer;AI+Enthusiast;Creative+Designer+%26+Video+Editor" />
+  <img src="https://komarev.com/ghpvc/?username=abdirahmanabdirisak7-blip&label=Profile%20Views&color=00F7FF&style=flat" alt="Views" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=550&lines=Software+Engineering+Student;Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Creative+Designer+%26+Video+Editor" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdirahmanabdirisak7-blip&theme=tokyonight&no-bg=true&margin-w=15" alt="trophy" />
 </p>
 
 ---
@@ -18,14 +26,9 @@
 
 ## 🛠️ Tech Stack
 
-### 🌐 Full-Stack Development
+### 🌐 Full-Stack Development & AI
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,dotnet,mysql,sqlite,bootstrap" />
-</p>
-
-### 🤖 AI & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,flask,git,github,windows" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,cs,dotnet,mysql,sqlite,bootstrap,python,flask,git,github,windows" />
 </p>
 
 ### 🎨 Creative Suite
@@ -35,15 +38,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdirahmanabdirisak7-blip&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdirahmanabdirisak7-blip&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdirahmanabdirisak7-blip&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahmanabdirisak7-blip&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdirahmanabdirisak7-blip&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdirahmanabdirisak7-blip&theme=tokyonight&hide_border=true" width="97%" />
 </p>
 
 ---
@@ -51,16 +54,28 @@
 ## 🏗️ Featured Projects
 
 ### 👁️ Eyes OS (Optical Management System)
-An advanced system for optical clinics to manage appointments, patient records, and inventory.  
-**Tech:** PHP, MySQL, CSS, JavaScript.
+An advanced management system for optical clinics to handle patient registrations, eye exams, and appointment scheduling.
+- **Tech Stack:** PHP, MySQL, CSS, JavaScript.
 
-### 🏫 Dugsi Management System
-A comprehensive database-driven application for student attendance, fees, and academic records.  
-**Tech:** SQL Server, ASP.NET MVC.
+### 🏫 School Management System (Dugsi)
+A comprehensive platform to manage student records, teacher attendance, financial fees, and academic reporting.
+- **Tech Stack:** ASP.NET MVC, SQL Server, Bootstrap.
 
 ### 🗳️ Secure Election System
-A digital voting platform focused on security, authentication, and real-time data integrity.  
-**Tech:** PHP, SQL, Bootstrap.
+A digital voting platform designed for high security, voter authentication, and real-time result integrity.
+- **Tech Stack:** PHP, SQL, JavaScript.
+
+### 🏋️ Gym Management System
+A streamlined system for managing gym memberships, payment tracking, and member progress logs.
+- **Tech Stack:** PHP, MySQL, CSS.
+
+### 📦 Inventory Management System
+A robust tool for tracking product stock levels, sales reports, and supplier information.
+- **Tech Stack:** C#, .NET, SQL Server.
+
+### 🚗 Driving Quiz Platform
+An interactive application designed to help students prepare for driving tests through simulated quizzes.
+- **Tech Stack:** HTML, CSS, JavaScript, PHP.
 
 ---
 
@@ -77,7 +92,6 @@ A digital voting platform focused on security, authentication, and real-time dat
 <a href="https://www.instagram.com/inah_updirizak/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
----
-
-## ⚡ Vision
-> "Engineering the future through intelligence and design. My goal is to build AI-driven systems that empower the next generation of digital infrastructure."
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=100&section=footer" />
+</p>
